@@ -1,7 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="a" format="2">
-  <advance width="500"/>
+  <advance width="700"/>
   <unicode hex="0061"/>
+  <note>
+esta a no me gusta tu hazla
+</note>
+  <image fileName="f0cb4e6d-9c96-4b67-8684-b6e6b2c75e8c.png" xScale="4.35096492755137" yScale="4.35096492755137" xOffset="-449.0" yOffset="-211.0" color="0.02353,0.41569,0.26667,0.18218"/>
   <outline>
+    <contour>
+      <point x="38" y="353" type="line"/>
+      <point x="38" y="534"/>
+      <point x="207" y="600"/>
+      <point x="341" y="600" type="curve" smooth="yes"/>
+      <point x="486" y="600"/>
+      <point x="629" y="503"/>
+      <point x="627" y="317" type="curve" smooth="yes"/>
+      <point x="623" y="1" type="line"/>
+      <point x="413" y="-3" type="line"/>
+      <point x="411" y="380" type="line" smooth="yes"/>
+      <point x="411" y="408"/>
+      <point x="372" y="434"/>
+      <point x="334" y="434" type="curve" smooth="yes"/>
+      <point x="285" y="434"/>
+      <point x="254" y="414"/>
+      <point x="254" y="354" type="curve"/>
+    </contour>
+    <contour>
+      <point x="196" y="-16" type="curve" smooth="yes"/>
+      <point x="113" y="-11"/>
+      <point x="25" y="42"/>
+      <point x="25" y="125" type="curve" smooth="yes"/>
+      <point x="25" y="272"/>
+      <point x="412" y="314"/>
+      <point x="412" y="380" type="curve"/>
+      <point x="444" y="292" type="line"/>
+      <point x="379" y="250"/>
+      <point x="250" y="238"/>
+      <point x="250" y="167" type="curve" smooth="yes"/>
+      <point x="250" y="144"/>
+      <point x="270" y="133"/>
+      <point x="291" y="133" type="curve" smooth="yes"/>
+      <point x="349" y="133"/>
+      <point x="412" y="201"/>
+      <point x="412" y="259" type="curve"/>
+      <point x="429" y="161" type="line"/>
+      <point x="429" y="48"/>
+      <point x="299" y="-23"/>
+    </contour>
   </outline>
 </glyph>
